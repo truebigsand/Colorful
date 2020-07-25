@@ -1,2 +1,2 @@
 # Colorful
-Colorful is a library for windows and linux to output the colorful texts.
+Colorful is a library for C++ on windows and linux to output the colorful texts.
